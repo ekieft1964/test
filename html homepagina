@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+			<title>Opdracht 5.6</title>
+			<link rel="stylesheet" type="text/css" href="style56.css">
+</head>
+<body>
+			<div id="wrapper">
+			   <header>header</header>
+				 <div id="sidebar">sidebar</div>
+				 <article>artikel 1 </article>
+				 <article>artikel 2 </article>
+				 <article>artikel 3 </article>
+				 <article>artikel 4 </article>
+				 <article>artikel 5 </article>
+				 <article>artikel 6 </article>
+				 <article>artikel 7</article>
+				 <article>artikel 8</article>
+				 <article>artikel 9</article>
+				 <footer>footer</footer>
+			</div>
+
+</body>
+</html>
